@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **My journey to become a Software Engr.**
 
-- 🌱 I’m currently learning **Java, javascript, Html, Css**
+- 🌱 I’m currently learning **Java, javascript, Html, Css, C++**
 
 - 📫 How to reach me **janvicdiamante52@gmail.com**
 
