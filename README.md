@@ -1,5 +1,5 @@
 h1 align="center">Hi 👋, I'm janvic B Diamante</h1>
-<h3 align="center">A passionate frontend developer student from The Philippines</h3>
+<h3 align="center">A passionate Software Engr. student from The Philippines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jxnvxc&label=Profile%20views&color=0e75b6&style=flat" alt="jxnvxc" /> </p>
 
